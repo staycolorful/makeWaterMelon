@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "西瓜半个",
+    "texture": "8693d130-de39-442b-86e7-c441512171dc",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      302,
+      302
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      308,
+      309
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

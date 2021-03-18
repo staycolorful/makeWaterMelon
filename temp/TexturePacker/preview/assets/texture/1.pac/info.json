@@ -1,0 +1,36 @@
+{
+  "projectPath": "/Users/staycolorful/wechat_work_space/NewProject",
+  "mtimes": {
+    "be33468f-58ce-46e8-af34-bcb549c491e3": {
+      "assetMtime": 1612321884365,
+      "metaMtime": 1612321890803
+    }
+  },
+  "result": {
+    "name": "1",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.1",
+    "uuid": "be33468f-58ce-46e8-af34-bcb549c491e3",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [],
+    "unpackedTextures": []
+  }
+}

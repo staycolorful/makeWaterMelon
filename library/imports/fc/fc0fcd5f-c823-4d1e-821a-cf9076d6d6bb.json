@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "桃子",
+    "texture": "1c787da1-ed11-46b2-9385-777dd81cc8af",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      186,
+      186
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      193,
+      193
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
